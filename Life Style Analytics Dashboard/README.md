@@ -61,7 +61,7 @@ Key variables used in the dashboard:
 
 | File | Description |
 |------|-------------|
-| `dashboard.twbx` | Tableau packaged workbook |
+| `LifeStyle Analytics Dashboard.twbx` | Tableau packaged workbook |
 | `dataset.csv` | Raw dataset used for analysis |
 | `README.md` | Project documentation |
 | `slides.pdf` | Project presentation |
